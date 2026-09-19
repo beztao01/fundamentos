@@ -28,7 +28,7 @@ ador%20industrial%20%2F%20gr%C3%A1fico%20plantea,sistematizar%20la
 0hay%20que,el%20problema%20en%20su%20conjunto
 
 Dick Noe Sánchez Blanco (Productor). (20 de marzo de 2020) Diseño Tridimensional
-- 1 Clase virtual [Archivo de video]. Recuperado de
+1 Clase virtual [Archivo de video]. Recuperado de
 https://www.youtube.com/watch?v=4OXizWu0RIw
 
 Estudiia (Productor). (23 de febrero de 2014) Cilindro: definición y elementos

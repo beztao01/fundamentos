@@ -17,7 +17,7 @@ En esta primera sesión veremos una serie de puntos importante que te mencionar�
 
 - [Reloj](https://beztao01.github.io/relok-uvm/)
 - [Calendario.](./assets/CALENDARIO%20LX.pdf)
-- [El Syllabus](./assets/dibujo.pdf)
+- El Syllabus hay que solicitarlo
 - [El reglamento general de la asignatura](https://beztao01.github.io/reveral/)
 - [El reglamento de laboratorios](https://beztao01.github.io/documentos/laboratorios.pdf)
 - [Documento de información general que esta en el Blackboard](./assets/fundamentos.pdf)
