@@ -1,10 +1,12 @@
 ---
 layout: default
-title: Sesión 07 
+title: Sesión 07 p 
 nav_order: 8
 ---
 
 # Sesión 07
+
+primer parcial
 
 ## Blackboard
 
