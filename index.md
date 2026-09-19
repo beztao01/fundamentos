@@ -16,6 +16,7 @@ A nuestra materia de Fundamentos de diseño que se imparte en la licenciatura en
 En esta primera sesión veremos una serie de puntos importante que te mencionará su facilitador.
 
 - [Reloj](https://beztao01.github.io/relok-uvm/) 
+- [Bitácora](https://myuvmedu.sharepoint.com/:x:/s/C1-202675L6LIC.SEMESTRALMIXTA/IQBtU_9pgfC-Rplf2OA_9ZgZARSOl9lsgAdRXHbCPJmtI4E?e=2k53jV)
 - [Calendario.](https://beztao01.github.io/academia/academia/horario2026-02.jpeg)
 - El Syllabus. 
 - [El reglamento general de la asignatura](https://beztao01.github.io/reveral/)  
