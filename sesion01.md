@@ -23,7 +23,7 @@ En esta primera sesión veremos una serie de puntos importante que te mencionar�
 - [Documento de información general que esta en el Blackboard](./assets/fundamentos.pdf)
 - [Acceso a Blackboard](https://uvmonline.blackboard.com)
 - Acreditación de la materia
-- [Biblografía y referencias](./referencias.md)
+- [Biblografía y referencias](./referencias.html)
 - Software necesario
 - Firma de Syllabus
 
