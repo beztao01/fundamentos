@@ -1,0 +1,12 @@
+title: Fundamentos de diseño
+description: Materia que se imparte en la licenciatura en Arquitectura Digital
+
+# Tema remoto para GitHub Pages (Obligatorio)
+remote_theme: just-the-docs/just-the-docs
+
+# Plugins obligatorios
+plugins:
+  - jekyll-remote-theme
+
+# Configuración de tema oscuro
+color_scheme: dark
