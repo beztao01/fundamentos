@@ -1,11 +1,13 @@
 title: Fundamentos de diseño
 description: Materia que se imparte en la licenciatura en Arquitectura Digital
+theme: just-the-docs
 
 # Tema remoto para GitHub Pages (Obligatorio)
 #remote_theme: just-the-docs/just-the-docs
 
+url: https://just-the-docs.github.io
 # Tema local
-theme: just-the-docs
+#theme: just-the-docs
 
 # Plugins obligatorios
 #"plugins:
