@@ -85,8 +85,10 @@ PLATFORMS
   x64-mingw-ucrt
 
 DEPENDENCIES
-  jekyll
-  just-the-docs
+  jekyll (~> 4.4.1)
+  just-the-docs (= 0.12.0)
+  logger (~> 1.7)
+  webrick (~> 1.9)
 
 CHECKSUMS
   addressable (2.9.0) sha256=7fdf6ac3660f7f4e867a0838be3f6cf722ace541dd97767fa42bc6cfa980c7af
