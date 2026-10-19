@@ -5,6 +5,9 @@ nav_order: 11
 ---
 
 # Sesión 10
-Desarrollar contenido
+
+
+- [Principios de representación](https://ibiguridt.wordpress.com/temas/principios-de-representacion/)
+
 ## Blackboard
 Todas las actividades se entregan los dias lunes a las 3:00 am
