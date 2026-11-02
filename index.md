@@ -11,6 +11,13 @@ A nuestra materia de Fundamentos de diseño que se imparte en la licenciatura en
 
 > 📢 **¡ANUNCIO IMPORTANTE!**
 > <div style="background-color: #3b3a3d; color: #e6e1e8; padding: 15px; border-left: 6px solid #5ea1fb; border-radius: 5px;">
+>   **Actualizaciones**02-11-26 Revisar en sesión 01 que se pueda visualizar la bitácora y traer el material para la práctica de círculo cromático"
+> </div>
+
+
+
+> 📢 **¡ANUNCIO IMPORTANTE!**
+> <div style="background-color: #3b3a3d; color: #e6e1e8; padding: 15px; border-left: 6px solid #5ea1fb; border-radius: 5px;">
 >   **Actualizaciones** Revisar en sesión 01 que se pueda visualizar la bitácora"
 > </div>
 
