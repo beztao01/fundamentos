@@ -12,4 +12,4 @@ círculo cromático técnica acrílico
 - [Círculo Cromático en Inkscape 2/2](https://youtu.be/72avUkpugv4)
 
 ## Blackboard
-Todas las actividades se entregan los dias lunes a las 3:00 am
+Todas las actividades se entregan los dias lunes a las 3:00 am.
