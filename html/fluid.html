@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <title>Blender Tutorial - Satisfying Fluid Particle Animation</title>
+</head>
+<body>
+  <div class="container"> 
+    <h1>Blender Tutorial - Satisfying Fluid Particle Animation</h1>
+    <h2>Pasos</h2>
+    <section>
+      <ol>
+        <li>Crea una UV Sphere con lo siguientes parametros Segments: 64 Rings: 32 y lo escalamos 2.8 y subimos en Z 1.5 m, aplicamos ShadeSmooth</li>
+        <li>Creamos otra esfera la colocamos al centro de la anterior y la escalamos un poco</li>
+        <li>Agregamos un cubo lo escalos para que cubra las esferas, este va a ser nuestro <i>domain</i></li>
+        <li>La esfera mayor invertimos las normales con Shift+N </li>
+        <li>Seleccionamos el vertice de la parte superior y lo eliminamos</li>
+        <li>Seleccionamos el Cube y en las físicas le en fluido le damos la propiedad de Domain, del tipo Liquid </li>
+        <li>Ahora seleccionamos la esfera mayor y le aplicamos fisica de Fluido, tipo Effector tildeamos is planar</li>
+        <li>Seleccionamos la esfera menor, le aplicamos Física de Fluido tipo Flow, liquid, </li>
+        <li>Seleccionamos el cubo y en el resolution division lo pasamos a 96</li>
+        <li>Seleccionamos la esfera grande la duplicamos, hacemos mas grande y tapamos el hueco que habiamos generado anteriormente</li>
+        <li>Esta Ultima esfera le cambiamos las propiedades cambiamos a Flow, liquid, outflow, en flow source en source emission cambiamos el valor a 0.2  </li>
+        <li>Seleccionamos el cubo en el border collision desactivamos front y left, pasamos a 32 resolution division y desactivamos las border Colission restantes  </li>
+        <li>Nos vamos al parámetro liquid en samplig le tipeamos 5, random banwith 15 y tildeamos fractional obstacles </li>
+        <li>Vamos agregar la turbulencia la ponemos en la parte superior del lado izquierdo</li>
+        <li>valores Strenght 15 , flow 0.2</li>
+        <li>Seleccionamos el cubo  nos vamos al fotograma 80 y en las los field weights en tubulencia agregamos ub fogograma clave con valor 0</li>
+        <li>nos vamos al fotograma 100 pasamos el valor a 1 y agregamos un fotograma clave </li>
+        <li>nos vamoa al fotograma 101 pasamos el valor a 0 y le agregamos un fotograma clave</li>
+        <li>seleccionamos los fotogramas clave los duplicamos y los duplicados los movemos al frame 180</li>
+        <li>Seleccionando el cubo y colocandonos el el fotograma 80, en el particle radius le agregamos un fotograma clave</li>
+      </ol>
+    </section>
+    <p>WIP</p>
+    <script src="https://jsdelivr.net"></script>
+  </div>
+</body>
+</html>
